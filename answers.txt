@@ -18,3 +18,8 @@ same. It doesnt rewrite the history and keeps a record of all previous
 branches. Rebasing, however, rewrites history and the commits get new IDs. 
 The history will be cleaned and the branch will look like it was main all 
 along. 
+
+Q4: What are you looking forward to this semester?
+
+Answer: Im looking forward to learning tools that can help me work with 
+big amounts of data. Im also looking forward to learning about ML. 
