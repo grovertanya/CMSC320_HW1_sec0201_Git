@@ -1,0 +1,5 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: The main fields it can be applied in are Personalizations in any industry. For example, tailoring advertisments to individual customers by keeping track of their data such as browsing 
+history.   
+
