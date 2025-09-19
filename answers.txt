@@ -10,4 +10,11 @@ Q2: What field could data science be applied to? Give an Example.
 Answer: The main fields it can be applied in are Personalizations in any industry. For example, tailoring advertisments to individual customers by keeping track of their data such as browsing 
 history.   
 
+Q3: What is the difference between Merging and Rebasing?
 
+Answer: The difference between a merging and rebasing is that while 
+merging, all the history is preserved and the existing commits stay the 
+same. It doesnt rewrite the history and keeps a record of all previous 
+branches. Rebasing, however, rewrites history and the commits get new IDs. 
+The history will be cleaned and the branch will look like it was main all 
+along. 
