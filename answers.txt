@@ -1,0 +1,5 @@
+Q1: Why might we consider using Git?
+
+Answer:
+- In order to work on your local computer conveniently and securely
+- To be connected easily with the professor and TAs to view your work. 
